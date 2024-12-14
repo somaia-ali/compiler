@@ -1,4 +1,4 @@
-# Mini java compiler 
+# Mini java compiler⚙️
 ## Description: 
 This project implements a basic Java compiler that performs lexical and syntax analysis on Java code. 
 It can:
@@ -14,3 +14,5 @@ It can:
 ## Limitations:
 This is a basic compiler and does not perform full semantic analysis or code generation.
 It only supports a limited subset of the Java language.
+
+#### Let's dive into the world of compilers!
